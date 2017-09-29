@@ -31,6 +31,7 @@ public class MainActivity extends AppCompatActivity {
         b8=(Button)findViewById(R.id.b8);
         b9=(Button)findViewById(R.id.b9);
         reset=(Button)findViewById(R.id.reset);
+        getSupportActionBar().setTitle("TIC TAC TOE");
         int i=2,j;
         while(i!=-1)
         { j=2;

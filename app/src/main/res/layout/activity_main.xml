@@ -150,6 +150,7 @@
         android:shadowRadius="5"
         android:textColor="#1c1a1b"
         android:textStyle="bold"
+        android:elevation="10dp"
         android:background="@drawable/button_selector"
         android:textAppearance="@style/TextAppearance.AppCompat.Display1"
         />
